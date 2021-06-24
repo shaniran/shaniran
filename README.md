@@ -1,3 +1,4 @@
+[CVRS.pdf](https://github.com/shaniran/shaniran/files/6706804/CVRS.pdf)
 ### Hi there 👋
 My Cv will be here shortly :)
 Contact me at shaniran@gmail.com
