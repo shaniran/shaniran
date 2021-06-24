@@ -7,12 +7,12 @@ Email : shaniran@gmail.com  | Cell: 0524381227
 Mechanical engineer | Experienced Purchasing Management experience and Supply chain PM.
 Creating efficient supply chain, Cheaper, better, and faster! Together we will improve it.
 ## Professional Experience
-#### Supply chain manager Mano Maritime Ltd.												2019 to Today
+### Supply chain manager Mano Maritime Ltd.												2019 to Today
 *	Leading Procurement department - controlling Purchasing of vessels requirements (technical, food, hotel, IT), real estate projects (offices, coffee shop, hotel). The team includes 2 buyers, Storekeepers, and engineers on vessels.
 *	Building and Executing efficiency improvement plan by building working process, organize data and generating reports to monitor the working process, savings, and expenses, including building MRP data base and procedures.
 *	Improving logistics process including Logistics actions in ERP, general way of work. 
 
-#### Procurement manager Unilever Israel												2011 to 2019
+### Procurement manager Unilever Israel												2011 to 2019
 **CAPEX, MRO & Logistics Procurement manager. (2013-2019)**
 *	Logistics and import operations (including managing 5 Buyers) - 60M Euro annual spend. 
 *	Develop supply chain by updating supplier’s scope and creating new suppliers to generate added value (savings, improve service and lower stock levels).
@@ -28,7 +28,7 @@ Creating efficient supply chain, Cheaper, better, and faster! Together we will i
 *	Creating contracts according to the company methodology including the required interfaces for SLA, SOW, QA, security, safety, sustainable sourcing etc.
 *	Vendor management – commercial terms, service level and ad hoc solutions.      
 	
-#### Sales, Operations & customer service – Shani Electro Mechanics									2002 to 2011
+### Sales, Operations & customer service – Shani Electro Mechanics									2002 to 2011
 **Sales, operations, and Business development manager (2007-2011)**
 *	Sales of CNC machines, including sourcing solutions for customer requirements.
 *	Create and manage commercial relations with machinery and equipment manufacturers (mostly overseas).
