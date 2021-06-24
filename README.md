@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+My Cv will be here shortly :)
+Contact me at shaniran@gmail.com
++972(0)524381227
 <!--
 **shaniran/shaniran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
