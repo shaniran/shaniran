@@ -1,6 +1,7 @@
 ### Hi there 👋
 Please see my CV on the following file:
-**[CVRS.pdf]**
+[Ran Shani Resume.pdf](https://github.com/shaniran/shaniran/files/6708258/Ran.Shani.Resume.pdf)
+
 Contact me at shaniran@gmail.com
 +972(0)524381227
 <!--
