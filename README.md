@@ -48,9 +48,9 @@ SAP, Priority, MS Project, MS Office, BI, Solid Works.
 
 
 ## Military Service - Israeli Defense Force
-	Complete 3 years' service as combat soldier and leader (infantry corps). 	1997-2000
+*	Complete 3 years' service as combat soldier and leader (infantry corps). 	1997-2000
 ## Languages	
-	Hebrew: Native     English: Fluent	
+*	Hebrew: Native     English: Fluent	
 
 
 
