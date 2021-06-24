@@ -1,6 +1,6 @@
-[CVRS.pdf](https://github.com/shaniran/shaniran/files/6706804/CVRS.pdf)
 ### Hi there 👋
-My Cv will be here shortly :)
+Please see my CV on the following file:
+[CVRS.pdf](https://github.com/shaniran/shaniran/files/6706804/CVRS.pdf)
 Contact me at shaniran@gmail.com
 +972(0)524381227
 <!--
