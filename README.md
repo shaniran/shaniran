@@ -4,7 +4,7 @@ To see my CV scroll down or click on the following files:
 * [רן שני - קורות חיים ](https://github.com/shaniran/shaniran/files/6711111/RanShaniCV.pdf)
 
 # Eng. Ran Shani – Supply Chain Management 
-Email : shaniran@gmail.com  | Cell: 0524381227   
+Contact me by: Email @ shaniran@gmail.com  | phone @ +972 (0)524381227   
 Mechanical engineer | Experienced Purchasing Management experience and Supply chain PM.
 Creating efficient supply chain, Cheaper, better, and faster! Together we will improve it.
 ## Professional Experience
