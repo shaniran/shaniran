@@ -22,6 +22,7 @@ Creating efficient supply chain, Cheaper, better, and faster! Together we will i
 *	Defining team procedures and KPIs, including follow ups and adjustments to meet targets. 
 *	Matrix management for implementing global procurement methodology and local procedures.
 *	Managing logistics suppliers: 3PL storage, Trucks, MHE etc.
+
 **CAPEX, MRO (Maintenance, Repair & Operation) Technical Buyer. (2011-2012)**
 *	Technical buyer (CAPEX, Operation and Energy) - 40M Euro annual spend. New role established to centralize all technical procurement at Unilever, with high level commercial perspective. Leveraging to create added value. 
 *	Managing procurement processes including RFI, RFQ, providing Business recommendation for Directors.
@@ -35,6 +36,7 @@ Creating efficient supply chain, Cheaper, better, and faster! Together we will i
 *	Create and manage commercial relations with machinery and equipment manufacturers (mostly overseas).
 *	Build CRM and operate the customer service.
 *	Promoting new technologies and business development to other industry segments.
+
 **Technician of CNC and conventional machining. (2002 – 2007)**
 *	Technical support (hands on) for machines including mechanical, electrical and control.
 *	Supporting new and used equipment sales, by installing, commissioning, and training.
@@ -45,8 +47,6 @@ SAP, Priority, MS Project, MS Office, BI, Solid Works.
 *	*CPM* & Import/ export "Chamber of Commerce Israel".										2010
 *	Management (Unilever) and *project management* (PMP®) courses.									2017
 *	*Priority* Implementing course – “Prodware”.											2021
-
-
 
 ## Military Service - Israeli Defense Force
 *	Complete 3 years' service as combat soldier and leader (infantry corps). 	1997-2000
