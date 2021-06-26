@@ -3,7 +3,11 @@ To see my CV scroll down or click on the following files:
 * [Ran Shani Resume (English)](https://github.com/shaniran/shaniran/files/6708258/Ran.Shani.Resume.pdf)
 * [רן שני - קורות חיים ](https://github.com/shaniran/shaniran/files/6711111/RanShaniCV.pdf)
 
-Contact me by: Email @ [shaniran@gmail.com](mailto:shaniran@gmail.com)  | phone @ +972 (0)524381227   
+Contact me by: 
+* Email    @ [shaniran@gmail.com](mailto:shaniran@gmail.com)   
+* phone    @ <a href=””>0524381227</a>. or <a href=””>972524381227</a>.
+* Whatsapp @ https://wa.me/972524381227
+   
 Mechanical engineer | Experienced Purchasing Management experience and Supply chain PM.
 Creating efficient supply chain, Cheaper, better, and faster! Together we will improve it.
 ## Professional Experience
