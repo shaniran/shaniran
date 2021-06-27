@@ -5,8 +5,10 @@ To see my CV scroll down or click on the following files:
 
 Contact me by: 
 * Email    @ [shaniran@gmail.com](mailto:shaniran@gmail.com)   
-* phone    @ <a href=””tel:0524381227></a>. or <a href=””tel:972524381227></a>. [052-4381227](tel:0524381227)
-* Whatsapp @ https://wa.me/972524381227
+* Phone:
+<a href="tel:972524381227">0524381227</a>
+* Whatsapp:
+https://wa.me/972524381227
    
 Mechanical engineer | Experienced Purchasing Management experience and Supply chain PM.
 Creating efficient supply chain, Cheaper, better, and faster! Together we will improve it.
