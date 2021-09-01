@@ -1,7 +1,7 @@
 # Eng. Ran Shani – Supply Chain Management 
 To see my CV scroll down or click on the following files:
 * [Ran Shani Resume (English)](https://github.com/shaniran/shaniran/files/6708258/Ran.Shani.Resume.pdf)
-* [רן שני - קורות חיים ](https://github.com/shaniran/shaniran/files/6711111/RanShaniCV.pdf)
+* [רן שני - קורות חיים ](https://github.com/shaniran/shaniran/files/7090153/RanShaniCV.pdf)
 
 Contact me by: 
 * Email    @ [shaniran@gmail.com](mailto:shaniran@gmail.com)   
