@@ -1,6 +1,6 @@
 # Eng. Ran Shani – Supply Chain Management 
 To see my CV scroll down or click on the following files:
-* [Ran Shani Resume (English)](https://github.com/shaniran/shaniran/files/6708258/Ran.Shani.Resume.pdf)
+* [Ran Shani Resume (English)](https://github.com/shaniran/shaniran/files/7098174/RanShaniECV.pdf)
 * [רן שני - קורות חיים ](https://github.com/shaniran/shaniran/files/7090153/RanShaniCV.pdf)
 
 Contact me by: 
@@ -9,12 +9,14 @@ Contact me by:
 <a href="tel:972524381227">0524381227</a>
 
 Mechanical engineer | Experienced Purchasing Management experience and Supply chain PM.
-Creating efficient supply chain, Cheaper, better, and faster! Together we will improve it.
+B.Sc. Mechanical engineer | Experienced Purchasing Management and Supply chain.
+Creating efficient supply chain with focused teamwork using Automation and digitizing.
+
 ## Professional Experience
 ### Supply chain manager Mano Maritime Ltd.												2019 to Today
-*	Leading Procurement department - controlling Purchasing of vessels requirements (technical, food, hotel, IT), real estate projects (offices, coffee shop, hotel). The team includes 2 buyers, Storekeepers, and engineers on vessels.
+*	Leading Procurement department – Strategic and tactical Purchasing for vessels requirements (technical, food, hotel, IT), real estate projects including construction of new assets, Department includes Buyers and storekeepers.
 *	Building and Executing efficiency improvement plan by building working process, organize data and generating reports to monitor the working process, savings, and expenses, including building MRP data base and procedures.
-*	Improving logistics process including Logistics actions in ERP, general way of work. 
+*	Improving logistics efficiency and transparency focusing on the ERP and implementing MRP.
 
 ### Procurement manager Unilever Israel												2011 to 2019
 **CAPEX, MRO & Logistics Procurement manager. (2013-2019)**
